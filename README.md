@@ -1,1 +1,1 @@
-# colourful-trex
+# colorful-trex
